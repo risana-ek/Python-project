@@ -1,0 +1,24 @@
+You: & c:/users/user/appdata/local/programs/python/python313/python.exe c:/users/user/desktop/mini_ai_chatbot_project/chatbot_code/chatbot_file.py
+Bot: Python is a powerful and easy programming language.
+You: hi
+Bot: Hi there! How are you?
+You: time
+Bot: Current time is: 23:35:25
+You: date
+Bot: Today's date is: 12-11-2025
+You: how are you
+Bot: I’m fine, thank you!
+You: help
+Bot: You can ask me about Python, time, date, greetings or just say bye to exit.
+You: python
+Bot: Python is a powerful and easy programming language.
+You: bye
+Bot: Bye Risana, take care!
+You: hi
+Bot: Hi there! How are you?
+You: python
+Bot: Python is a powerful and easy programming language.
+You: time
+Bot: Current time is: 20:02:51
+You: name
+Bot: I am your Mini AI Chatbot.
