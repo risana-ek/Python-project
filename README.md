@@ -1,4 +1,4 @@
-​#🤖 Mini AI Chatbot (Core Python Project)
+​🤖 Mini AI Chatbot (Core Python Project)
 
 ​A lightweight, rule-based chatbot built using Core Python concepts. This project demonstrates how logic-driven programming can simulate human-like interactions without external libraries.
 
